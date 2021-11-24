@@ -19,6 +19,7 @@
 <h2>Practice</h2>
 <pre>
 <!-- ここにプログラムを記述します -->
+<p>git_brach_test</p>
 </pre>
 </main>
 </body>    
